@@ -1,0 +1,11 @@
+body {
+  margin-top: 0;
+  margin-right:0;
+  margin-left:0;
+  height: 4100px;
+  background-color: rgba(204, 202, 202, 0.378);
+}
+
+@media only screen and (max-width: 450px) {
+  
+}

@@ -1,0 +1,34 @@
+.last {
+  background-color: rgb(30, 30, 30);
+  height: 200px;
+  width: 1519.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  margin-top: 50px;
+}
+
+.garena {
+  height: 70px;
+  margin-left: 0px;
+  margin-right: 50px;
+}
+
+.policies {
+  color: rgba(245, 245, 245, 0.866);
+  font-family: "GFF Latin", sans-serif;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-right: 80px;
+}
+
+.rights {
+  color: rgba(245, 245, 245, 0.668);
+  margin-left: 205px;
+  margin-top: -20px;
+  font-size: 12px;
+}
